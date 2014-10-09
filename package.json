@@ -1,6 +1,6 @@
 {
     "name": "docit",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "Allan Boyd <millionyearsold@gmail.com>",
     "description": "Language independent generation of Markdown from javadoc style code comments",
     "keywords": "jsdoc, markdown, comments, javadoc",
@@ -30,7 +30,7 @@
         "test": "./node_modules/jshint/bin/hint bin/cli.js lib/cliHelper.js lib/docit.js lib/parser.js lib/codehandlers/jsCodeHandler.js test/testCliHelper.js test/testDocit.js test/testParser.js test/testJsCodeHandler.js && ./node_modules/nodeunit/bin/nodeunit test/testCliHelper.js test/testJsCodeHandler.js test/testParser.js test/testDocit.js"
     },
     "dependencies" : {
-        "exceptions": "0.1.0",
+        "exceptions": "0.1.1",
         "logly": "1.1.1",
         "nconf": "0.5.1",
         "optimist": "0.3.1"
