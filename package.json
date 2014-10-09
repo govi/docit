@@ -5,7 +5,7 @@
     "description": "Language independent generation of Markdown from javadoc style code comments",
     "keywords": "jsdoc, markdown, comments, javadoc",
     "bugs": {
-        "url" : "http://github.com/allanmboyd/docit/issues"
+        "url" : "http://github.com/philippsimon/docit/issues"
     },
     "main": "lib/docit.js",
     "preferGlobal": "true",
@@ -14,7 +14,7 @@
     },
     "repository" : {
         "type": "git",
-        "url": "http://github.com/allanmboyd/docit.git"
+        "url": "http://github.com/philippsimon/docit.git"
     },
     "licenses": [
         {
